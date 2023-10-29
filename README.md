@@ -37,4 +37,4 @@ To access and use this map, you will need an ArcGIS Online subscription. Here ar
 
 ## Contributors
 
-- [Your Name](link_to_your_github_profile) - Creator of this map
+- [Euclides Paulo](https://github.com/euclidespaulo) - Creator of this map
