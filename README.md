@@ -28,7 +28,7 @@ To access and use this map, you will need an ArcGIS Online subscription. Here ar
 
 1. **Prerequisites**: Ensure you have an active ArcGIS Online subscription.
 
-2. **Access the Map**: Click on the following link to access the map: [US Crime Map](link_to_your_map).
+2. **Access the Map**: Click on the following link to access the map: [US Crime Map](https://euclidespaulo.github.io/Interactive-Crime-Map/).
 
 3. **Log In**: You will be prompted to log in using your ArcGIS Online account. If you don't have one, you will need to sign up for a subscription.
 
